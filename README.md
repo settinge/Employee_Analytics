@@ -30,3 +30,8 @@ The following is a list of the metrics I reported upon:
 7. List all employees in the Sales and Development departments, including their employee number, last name, first name, and department name.
 
 8. In descending order, list the frequency count of employee last names, i.e., how many employees share each last name.
+
+## Screenshots
+![ScreenShot](ERD.png)
+
+Above is the ERD containing the various tables created as part of the project and the relationships between them.
