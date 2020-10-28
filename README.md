@@ -1,6 +1,19 @@
 # SQL-Challenge
 
 In this project, I designed tables to hold data in CSVs that contain employee data, imported the CSVs into a SQL database, and answered questions about the data.
+
+## How to Run Code
+
+1. Clone repository into a folder on your computer
+
+2. Download Postgres
+
+3. Create tables in Postgres corresponding to the table names in the ERD
+
+4. Upload excel files to populate tables with data
+
+5. Copy and paste SQL-Queries.sql from EmployeeSQL folder into a new tab in Postgres and run
+
 #### Data Modeling
 
 Inspected the CSVs and sketched out an ERD of the tables. I used quickdatabasediagrams to generate an ERD [http://www.quickdatabasediagrams.com](http://www.quickdatabasediagrams.com).
